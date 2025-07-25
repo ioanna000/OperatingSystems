@@ -1,11 +1,4 @@
-NAMES:
-	
-	Ioanna Gianni 				gioanna@uth.gr    	2704
-	Stamatia-Varvara Zafeiri 	zstamat@uth.gr     	2726
-	Georgios Kapetanos			kapgeorgios@uth.gr  2737
-
-
-COMPILATION INSTRUCTIONS:
+#COMPILATION INSTRUCTIONS:
 	
 	find_roots_lib:
 		* Follow project's instuctions on 3.1 (pages 12-13) to patch the syscall function in the kernel
