@@ -1,4 +1,4 @@
-# OperatingSystems
+# Operating Systems Course University of Thessaly 2022
 
 ### Project1 
 Creation of a new Linux system call and modification of a kernel module.
